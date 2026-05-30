@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.captainlzh658.twa",
-    "sha256_cert_fingerprints": ["43:B9:1D:79:0A:B3:6D:0A:6D:24:A2:DE:92:1E:58:97:53:EA:7E:6C:79:F0:FE:90:90:64:E7:66:97:EC:9A:F9"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.captainlzh658.twa",
+        "sha256_cert_fingerprints": ["86:73:5C:AC:A9:F5:C0:5B:C2:EB:EA:FC:06:27:91:F0:F3:C0:B8:B1:E5:55:B5:F7:61:BF:B9:40:C0:20:AD:77"]
+      }
+    }]
